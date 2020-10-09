@@ -7,7 +7,7 @@ function helloWorld() {
   });
 }
 
-const msg = async function() {
+async function msg() {
   const msg = await helloWorld();
   console.log('Message:', msg);
 }

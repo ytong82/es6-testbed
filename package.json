@@ -1,0 +1,19 @@
+{
+  "name": "es6-testbed",
+  "version": "1.0.0",
+  "description": "ES6 JavaScript Testbed",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ytong82/es6-testbed.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ytong82/es6-testbed/issues"
+  },
+  "homepage": "https://github.com/ytong82/es6-testbed#readme",
+  "type": "module"
+}
